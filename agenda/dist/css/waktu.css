@@ -1,0 +1,23 @@
+.titik {
+    color:#d3d3d3;
+}
+#jam{
+    color:#d3d3d3;
+    display:inline;
+    margin: 0px;
+}
+#menit{
+    color:#d3d3d3;
+    display:inline;
+    margin: 0px;
+}
+#detik{
+    color:#d3d3d3;
+    display:inline;
+    margin: 0px;
+}
+#tanggal{
+    color:#d3d3d3;
+    display:inline;
+    margin-right:10px;
+}
